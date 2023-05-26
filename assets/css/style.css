@@ -1,0 +1,108 @@
+* {
+    margin: 0rem !important;
+    padding: 0rem;
+}
+
+.img-fluid {
+    width: 86px !important;
+    height: 25px !important;
+}
+
+.container-fluid {
+    padding-top: 10px !important;
+    padding-left: 20px !important;
+    padding-right: 22px !important;
+    padding-bottom: 10px !important;
+}
+
+h5 {
+    color: #212529 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 20px !important;
+    font-weight: 300 !important;
+}
+
+i {
+    color: #707070;
+}
+
+small {
+    font-size: 13px !important;
+}
+
+.price {
+    text-align: end !important;
+    font-size: 16px !important;
+    color: #707070;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300 !important;
+}
+
+.p-2 {
+    font-size: 20px !important;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500 !important;
+}
+
+.col {
+    padding-top: 30px !important;
+    padding-left: 20.5px !important;
+    padding-right: 21.5px !important;
+}
+
+.col1 {
+    padding-top: 30px !important;
+    padding-left: 20.5px !important;
+    padding-right: 21.5px !important;
+}
+
+.col2 {
+    padding-top: 30px !important;
+    padding-left: 20.5px !important;
+    padding-right: 21.5px !important;
+}
+
+.col3 {
+    padding-top: 30px !important;
+    padding-left: 20.5px !important;
+    padding-right: 21.5px !important;
+}
+
+.col4 {
+    padding-top: 30px !important;
+    padding-left: 20.5px !important;
+    padding-right: 21.5px !important;
+}
+
+.col5 {
+    padding-top: 30px !important;
+    padding-left: 20.5px !important;
+    padding-right: 21.5px !important;
+}
+
+.card-text {
+    margin: 0 !important;
+    color: #707070 !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 300;
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 21px !important;
+}
+
+.btn {
+    font-family: "Roboto", sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+    color: #212529 !important;
+}
+
+.img2 {
+    width: 82px;
+    height: 24px;
+    margin-bottom: 10px !important;
+}
